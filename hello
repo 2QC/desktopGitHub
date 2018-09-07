@@ -1,4 +1,8 @@
 hello
+<<<<<<< HEAD
 world
 good morning
 weekday
+=======
+good morning
+>>>>>>> parent of 94f4000... Revert "add goodmorning"
